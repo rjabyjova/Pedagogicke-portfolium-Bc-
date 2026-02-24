@@ -1,6 +1,6 @@
-Pedagogické portfolio <br>
+**Pedagogické portfolio** <br>
 Bakalářské studium <br>
 Anastasia Rjabyjová (D250060) <br>
-Obor: AJ maior IT minor <br>
+Informační technologie se zaměřením na vzdělávání
 Pedagogická fakulta, UPOL
 
